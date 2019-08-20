@@ -1,4 +1,4 @@
-package com.innowisegroup.zanko.scanner;
+package com.innowisegroup.zanko.scanner.command;
 
 
 import lombok.experimental.UtilityClass;

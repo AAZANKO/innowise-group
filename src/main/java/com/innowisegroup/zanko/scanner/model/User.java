@@ -1,4 +1,4 @@
-package com.innowisegroup.zanko.scanner;
+package com.innowisegroup.zanko.scanner.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -22,7 +22,7 @@ public class User implements Serializable {
 
     private String eMail;
 
-    private Role role;
+    private List<Role> role;
 
     private List<String> cellPhones;
 
