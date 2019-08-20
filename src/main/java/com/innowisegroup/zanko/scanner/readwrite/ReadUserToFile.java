@@ -1,5 +1,6 @@
-package com.innowisegroup.zanko.scanner;
+package com.innowisegroup.zanko.scanner.readwrite;
 
+import com.innowisegroup.zanko.scanner.model.User;
 import lombok.experimental.UtilityClass;
 
 import java.io.*;
